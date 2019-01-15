@@ -1,18 +1,20 @@
-# computatisdevelopmentproject
+# Computatis Development Project
 
-> A Vue.js project
+Toto je projekt, pro snažší vývoj webové aplikace [Computatis](https://github.com/kubajj/Computatis).
 
-## Build Setup
+## Instalace
 
 ``` bash
-# install dependencies
+# git clone této složky
+git clone https://github.com/kubajj/Computatis.git
+
+#přesun do složky
+cd Computatis
+
+# instalace projektu
 npm install
 
-# serve with hot reload at localhost:8080
+# spuštění lokálně
 npm run dev
-
-# build for production with minification
-npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
