@@ -14,7 +14,7 @@
 	}
 
 	a:active, a:hover {
-		color: #d4050c;
+		color: #205D7E;
 	}
 
 	body { 
@@ -24,7 +24,7 @@
 	}
 
 	.btn.btn-secondary {
-		background-color:#a20c16;
+		background-color:#0382BC;
 		border: none;
 	}
 

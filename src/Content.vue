@@ -40,7 +40,7 @@
 
 <style>
 	.nav-pills .nav-link.active {
-		background-color: #ccc;
+		background-color: #0382BC;
 	}
 
 	.content {

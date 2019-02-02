@@ -45,13 +45,13 @@
 
 <style>
 	.ddown1 {
-		background-color:#a20c16;
+		background-color:#0382BC;
 		border: none;
 	}
 
 	a.dropdown-item:active {
 		background-color: white;
-		color: #d4050c;
+		color: #205D7E;
 	}
 	.backandnext {
 		margin: 0px 5px 0px 5px;
@@ -60,12 +60,12 @@
 	}
 	.backandnext:hover {
 		text-decoration: underline;
-		color: red;
+		color: blue;
 	}
 	.backandnext:active {
 		text-decoration: underline;
 		color: white;
-		background-color: red;
+		background-color: blue;
 	}
 	.dropdiv {
 		margin-top: 5px;
