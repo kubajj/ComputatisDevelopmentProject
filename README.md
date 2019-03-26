@@ -2,7 +2,7 @@ Computatis Development Project
 ==========
 
 This is a testing and development project for the application [Computatis](https://github.com/kubajj/Computatis).
-You can see functional demo [here](kubajj.gitlab.io/computatis).
+You can see functional demo [here](https://kubajj.gitlab.io/computatis).
 
 ## Installation
 
