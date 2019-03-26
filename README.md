@@ -1,7 +1,8 @@
-Computatis
+Computatis Development Project
 ==========
 
-This is my high school final exams project.
+This is a testing and development project for the application [Computatis](https://github.com/kubajj/Computatis).
+You can see functional demo [here](kubajj.gitlab.io/computatis).
 
 ## Installation
 
